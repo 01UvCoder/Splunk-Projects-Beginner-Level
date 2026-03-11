@@ -72,36 +72,6 @@ Splunk Enterprise
      ▼
 HTTP Log File Ingestion & Analysis
 ```
-
----
-
-# 📂 Project Structure
-
-```
-splunk-beginner-project/
-
-├── Project 1
-│   └── previous-project-files
-│
-├── Project 2 - HTTP Log Analysis
-│   │
-│   ├── README.md
-│   │
-│   ├── logs
-│   │   └── sample_http_logs.log
-│   │
-│   ├── queries
-│   │   └── splunk_queries.md
-│   │
-│   └── screenshots
-│       ├── log_upload.png
-│       ├── search_results.png
-│       └── traffic_analysis.png
-│
-└── resources
-    └── project_notes.md
-```
-
 ---
 
 # ⚙️ Installation
